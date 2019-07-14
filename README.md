@@ -2,6 +2,7 @@
 Coders Pack Repo: C, C++, Java, Python
 
 A. C Programming task files
+
      1. User details - Store name, age and phone number and display 
      2. Temperature - Celcius to Farheneit Conversion
      3. Subject marks - Display total marks and average of 3 subjects
